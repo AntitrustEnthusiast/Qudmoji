@@ -12,7 +12,7 @@ Disable any specific replacements in options. I'm sure some won't make sense to 
 Optionally supports showing icons on items with proper names (disabled by default).
 
 # Why?
-While I absolutely love the complex adjective/naming/coloring system, it can get a bit ridiculous in endgame with a dozen Chimera limbs each holding an item with 3 mods [i]and[/i] an energy cell with its own 3 mods. Or a dozen recoilers with the same.
+While I absolutely love the complex adjective/naming/coloring system, it can get a bit ridiculous in endgame with a dozen Chimera limbs each holding an item with 3 mods *and* an energy cell with its own 3 mods. Or a dozen recoilers with the same.
 
 This mod seeks to improve that without breaking vanilla balance or removing (much) information.
 
