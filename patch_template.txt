@@ -1,0 +1,7 @@
+
+[HarmonyPostfix]
+[HarmonyPatch(typeof(XRL.World.Parts.TEMPLATE_STRING), "HandleEvent", new Type[] { typeof(GetDisplayNameEvent) })]
+static void TEMPLATE_STRINGPatch(GetDisplayNameEvent E)
+{
+    SharedAdjectiveOverride(E, "TEMPLATE_STRING");
+}

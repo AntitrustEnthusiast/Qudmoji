@@ -1,0 +1,260 @@
+<options>
+    <option ID="Option_Qudmoji_ShowOnNamed" DisplayText="Enable symbols on named equipment"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No" />
+    <option ID="Option_Qudmoji_ShowOtherOptions" DisplayText="Enable original description for specific modifiers..."
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No">
+        <helptext>
+            This option only exists because the list is very long, to reduce scrolling for other mod
+            options.
+        </helptext>
+    </option>
+    <option ID="Option_Qudmoji_ModAirfoil" DisplayText="Show original description for ModAirfoil"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModAntiGravity"
+        DisplayText="Show original description for ModAntiGravity" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModBeamsplitter"
+        DisplayText="Show original description for ModBeamsplitter" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModBiomech" DisplayText="Show original description for ModBiomech"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModCamo" DisplayText="Show original description for ModCamo"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModCleated" DisplayText="Show original description for ModCleated"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModCoProcessor"
+        DisplayText="Show original description for ModCoProcessor" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModCybrid" DisplayText="Show original description for ModCybrid"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModDefib" DisplayText="Show original description for ModDefib"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModDesecrated"
+        DisplayText="Show original description for ModDesecrated" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModDisplacer"
+        DisplayText="Show original description for ModDisplacer" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModDrumLoaded"
+        DisplayText="Show original description for ModDrumLoaded" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModElectrified"
+        DisplayText="Show original description for ModElectrified" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModEngraved" DisplayText="Show original description for ModEngraved"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModExtradimensional"
+        DisplayText="Show original description for ModExtradimensional" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModFeathered"
+        DisplayText="Show original description for ModFeathered" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModFilters" DisplayText="Show original description for ModFilters"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModFlaming" DisplayText="Show original description for ModFlaming"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModFlareCompensating"
+        DisplayText="Show original description for ModFlareCompensating" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModFreezing" DisplayText="Show original description for ModFreezing"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModGearbox" DisplayText="Show original description for ModGearbox"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModGesticulating"
+        DisplayText="Show original description for ModGesticulating" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModHardened" DisplayText="Show original description for ModHardened"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModHeartstopper"
+        DisplayText="Show original description for ModHeartstopper" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModHeatSeeking"
+        DisplayText="Show original description for ModHeatSeeking" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModHighCapacity"
+        DisplayText="Show original description for ModHighCapacity" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModHUD" DisplayText="Show original description for ModHUD"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModHypervelocity"
+        DisplayText="Show original description for ModHypervelocity" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModIlluminated"
+        DisplayText="Show original description for ModIlluminated" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModInduction"
+        DisplayText="Show original description for ModInduction" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModJacked" DisplayText="Show original description for ModJacked"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModKeen" DisplayText="Show original description for ModKeen"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModLacquered"
+        DisplayText="Show original description for ModLacquered" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModLanterned"
+        DisplayText="Show original description for ModLanterned" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModLegendary"
+        DisplayText="Show original description for ModLegendary" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModMagnetized"
+        DisplayText="Show original description for ModMagnetized" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModMassivelyOverloaded"
+        DisplayText="Show original description for ModMassivelyOverloaded" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModMasterwork"
+        DisplayText="Show original description for ModMasterwork" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModMercurial"
+        DisplayText="Show original description for ModMercurial" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModMetallized"
+        DisplayText="Show original description for ModMetallized" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModMetered" DisplayText="Show original description for ModMetered"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModMicroserrated"
+        DisplayText="Show original description for ModMicroserrated" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModMighty" DisplayText="Show original description for ModMighty"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModMorphogenetic"
+        DisplayText="Show original description for ModMorphogenetic" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModNanochelated"
+        DisplayText="Show original description for ModNanochelated" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModNanon" DisplayText="Show original description for ModNanon"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModNav" DisplayText="Show original description for ModNav"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModNulling" DisplayText="Show original description for ModNulling"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModOrthopedic"
+        DisplayText="Show original description for ModOrthopedic" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModOverbuilt"
+        DisplayText="Show original description for ModOverbuilt" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModOverloaded"
+        DisplayText="Show original description for ModOverloaded" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModPadded" DisplayText="Show original description for ModPadded"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModPainted" DisplayText="Show original description for ModPainted"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModPhaseConjugate"
+        DisplayText="Show original description for ModPhaseConjugate" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModPhaseHarmonic"
+        DisplayText="Show original description for ModPhaseHarmonic" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModPiping" DisplayText="Show original description for ModPiping"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModPolarized"
+        DisplayText="Show original description for ModPolarized" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModQuantumReverb"
+        DisplayText="Show original description for ModQuantumReverb" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModRadioPowered"
+        DisplayText="Show original description for ModRadioPowered" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModRecycling"
+        DisplayText="Show original description for ModRecycling" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModRefractive"
+        DisplayText="Show original description for ModRefractive" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModReinforced"
+        DisplayText="Show original description for ModReinforced" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModScaled" DisplayText="Show original description for ModScaled"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModScoped" DisplayText="Show original description for ModScoped"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModSereneVisage"
+        DisplayText="Show original description for ModSereneVisage" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModSerrated" DisplayText="Show original description for ModSerrated"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModSharp" DisplayText="Show original description for ModSharp"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModSixFingered"
+        DisplayText="Show original description for ModSixFingered" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModSlender" DisplayText="Show original description for ModSlender"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModSmart" DisplayText="Show original description for ModSmart"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModSnailEncrusted"
+        DisplayText="Show original description for ModSnailEncrusted" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModSpiked" DisplayText="Show original description for ModSpiked"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModSpringLoaded"
+        DisplayText="Show original description for ModSpringLoaded" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModSturdy" DisplayText="Show original description for ModSturdy"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModSuspensor"
+        DisplayText="Show original description for ModSuspensor" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModTerrifyingVisage"
+        DisplayText="Show original description for ModTerrifyingVisage" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModTwoFaced" DisplayText="Show original description for ModTwoFaced"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModUrbanCamo"
+        DisplayText="Show original description for ModUrbanCamo" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModVisored" DisplayText="Show original description for ModVisored"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModWeightless"
+        DisplayText="Show original description for ModWeightless" Category="Mod: Qudmoji"
+        Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModWillowy" DisplayText="Show original description for ModWillowy"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModWired" DisplayText="Show original description for ModWired"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+    <option ID="Option_Qudmoji_ModWooly" DisplayText="Show original description for ModWooly"
+        Category="Mod: Qudmoji" Type="Checkbox" Default="No"
+        Requires="Option_Qudmoji_ShowOtherOptions==Yes" />
+</options>

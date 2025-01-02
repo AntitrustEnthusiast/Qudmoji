@@ -1,0 +1,1 @@
+<option ID="Option_Qudmoji_TEMPLATE_STRING" DisplayText="Show original description for TEMPLATE_STRING" Category="Mod: Qudmoji" Type="Checkbox" Default="No" Requires="Option_Qudmoji_ShowOtherOptions==Yes"/>
